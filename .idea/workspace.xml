@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04751272-6f94-4258-b1ba-5b2dc65b8194" name="Default Changelist" comment="" />
+    <list default="true" id="04751272-6f94-4258-b1ba-5b2dc65b8194" name="Default Changelist" comment="Bid_Data_Learning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,28 +53,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.BigData">
-    <configuration name="BigData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AssignmentBigData" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BigData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="NumpyBasics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AssignmentBigData" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +97,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.BigData" />
+      <item itemvalue="Python.NumpyBasics" />
+      <item itemvalue="Python.TesingFile" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.BigData" />
@@ -157,8 +140,16 @@
       <workItem from="1618923735848" duration="931000" />
       <workItem from="1618925465068" duration="1414000" />
       <workItem from="1619179959451" duration="4000" />
-      <workItem from="1619804166330" duration="1058000" />
+      <workItem from="1619804166330" duration="1338000" />
     </task>
+    <task id="LOCAL-00001" summary="Bid_Data_Learning">
+      <created>1619805279844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619805279844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +170,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Data/COVID-19" />
     </ignored-roots>
+    <MESSAGE value="Bid_Data_Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bid_Data_Learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
