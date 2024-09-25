@@ -11,12 +11,6 @@ import geopandas
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.feature import VectorAssembler
 
-# ######### Big Data Assignment ######### #
-# ######### Shivam Rajdendra Nirhali : 219203376 ######### #
-# ######### Abhishek Dave : 219203366 ######### #
-# ######### Dhaval Mansukhbhai Karkar : 219203375 ######### #
-# ######### Gayatri Tawada : 219203030  ######### #
-
 # https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
 # getFirstCaseDate will return the date on which first case occurred in country data-set
